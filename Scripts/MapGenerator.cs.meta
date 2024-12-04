@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a523c95f97db72c4b830cd8d59ee398c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - advancedStartRoomPrefab: {fileID: 1597269101785156102, guid: d03368ee8f1d71d45a02df793c698865, type: 3}
+  - oneWayCorridorPrefab: {fileID: 3840146860931554355, guid: a035228977f66c04083bb7f04592ebee, type: 3}
+  - twoWayCorridorPrefab: {fileID: 3933997742612281789, guid: dd7ea111145f5a142bd6ae67f488081d, type: 3}
+  - twoExitRoomPrefab: {instanceID: 0}
+  - fourWayIntersectionPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
